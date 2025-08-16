@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Mayara!  
 
-<!--
-**Mayaraqueiiroz/Mayaraqueiiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em **Medicina** 👩‍⚕️ e atualmente estou em transição de carreira para a área de **Análise e Desenvolvimento de Sistemas**.  
+Tenho interesse em **projetos back-end, bancos de dados e boas práticas de arquitetura de software**, sempre unindo disciplina e dedicação ao aprendizado de novas tecnologias.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo agora
+- Modelagem e desenvolvimento de **sistemas back-end**  
+- **Banco de Dados relacionais** e boas práticas em SQL  
+- Conceitos de **arquitetura de software**  
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-de-queiroz-souza-815723137/)  
+---
+
+✨ Sou movida por desafios, apaixonada por tecnologia e estou construindo meu caminho como **analista e desenvolvedora de sistemas**.
+
