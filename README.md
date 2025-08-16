@@ -9,8 +9,8 @@ Sou estudante em **Análise e Desenvolvimento de Sistemas**, focada em aprender,
 - 🌐 Sempre em busca de colaborar e trocar conhecimento  
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/mayara-de-queiroz-souza-815723137/)]  
--
+- LinkedIn: [https://www.linkedin.com/in/mayara-de-queiroz-souza-815723137/)]
+  
 Vamos nos conectar e compartilhar ideias! 🚀
 ✨ Sou movida por desafios, apaixonada por tecnologia e estou construindo meu caminho como **analista e desenvolvedora de sistemas**.
 
