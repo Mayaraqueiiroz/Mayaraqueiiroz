@@ -3,7 +3,7 @@
 Sou estudante em **Análise e Desenvolvimento de Sistemas**, focada em aprender, criar projetos e desenvolver soluções eficientes.  
 
 ## Sobre mim
-- 💻 Linguagens que estudo: Python, JavaScript 
+- 💻 Linguagens que estudo: HTML,Python, JavaScript 
 - 🌱 Atualmente aprimorando habilidades em desenvolvimento web e análise de sistemas  
 - 📚 Interessado(a) em: boas práticas de programação, automação e desenvolvimento de projetos do zero  
 - 🌐 Sempre em busca de colaborar e trocar conhecimento  
